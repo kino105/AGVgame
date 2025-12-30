@@ -489,7 +489,7 @@ MonoBehaviour:
       - 
       - "\u8389\u8389\u7D72"
       - "\u4E00\u822C"
-      - 
+      - "\u53F3\u908A"
       - 
       - 
       - 
@@ -848,7 +848,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u8389\u8389\u7D72"
-      - 
+      - "\u4E00\u822C"
       - 
       - 
       - 
@@ -888,7 +888,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
+      - "\u4E00\u822C"
       - 
       - 
       - 
@@ -1028,7 +1028,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
+      - "\u9A5A\u8A1D"
       - 
       - 
       - 
@@ -1128,7 +1128,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
+      - "\u9A5A\u8A1D"
       - 
       - 
       - 
@@ -1308,8 +1308,8 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
-      - 
+      - "\u4E00\u822C"
+      - "\u4E2D\u9593"
       - 
       - 
       - 
@@ -1685,8 +1685,8 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
-      - 
+      - "\u9A5A\u8A1D"
+      - "\u5DE6\u908A"
       - 
       - 
       - 
@@ -2460,7 +2460,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61132108/Scenarios/61132108.xls:Start
     type: 1
-    textLength: 4079
+    textLength: 4097
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: dbf4bcad4125ea84482ff268cd71dd5a, type: 3}
     entityIndexTbl: 
@@ -3460,7 +3460,7 @@ MonoBehaviour:
       - 
       - "\u8389\u8389\u7D72"
       - "\u4E00\u822C"
-      - 
+      - "\u53F3\u908A"
       - 
       - 
       - 
@@ -3819,7 +3819,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u8389\u8389\u7D72"
-      - 
+      - "\u4E00\u822C"
       - 
       - 
       - 
@@ -3859,7 +3859,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
+      - "\u4E00\u822C"
       - 
       - 
       - 
@@ -3999,7 +3999,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
+      - "\u9A5A\u8A1D"
       - 
       - 
       - 
@@ -4099,7 +4099,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
+      - "\u9A5A\u8A1D"
       - 
       - 
       - 
@@ -4279,8 +4279,8 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
-      - 
+      - "\u4E00\u822C"
+      - "\u4E2D\u9593"
       - 
       - 
       - 
@@ -4656,8 +4656,8 @@ MonoBehaviour:
       strings:
       - 
       - "\u827E\u7433"
-      - 
-      - 
+      - "\u9A5A\u8A1D"
+      - "\u5DE6\u908A"
       - 
       - 
       - 
@@ -5431,6 +5431,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61132108/Scenarios/61132108.xls:Start
     type: 1
-    textLength: 4079
+    textLength: 4097
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: dbf4bcad4125ea84482ff268cd71dd5a, type: 3}
